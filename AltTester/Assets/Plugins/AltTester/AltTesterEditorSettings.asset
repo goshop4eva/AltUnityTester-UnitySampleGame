@@ -16,106 +16,7 @@ MonoBehaviour:
   AdbPath: /usr/local/bin/adb
   IProxyPath: /usr/local/bin/iproxy
   XcrunPath: /usr/bin/xcrun
-  MyTests:
-  - _selected: 1
-    _testName: C:/Users/Alpeen/OneDrive/Belgeler/Projects/My project (1)/AltUnityTester-UnitySampleGame/AltTester/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll
-    _testAssembly: Unity.VisualStudio.Editor
-    _status: 0
-    _isSuite: 1
-    _type: NUnit.Framework.Internal.TestAssembly
-    _parentName: 
-    _testCaseCount: 0
-    _foldOut: 0
-    _testResultMessage: 
-    _testStackTrace: 
-    _testDuration: 0
-    path: 
-    _testSelectedCount: 0
-  - _selected: 1
-    _testName: C:/Users/Alpeen/OneDrive/Belgeler/Projects/My project (1)/AltUnityTester-UnitySampleGame/AltTester/Library/ScriptAssemblies/UnityEngine.TestRunner.dll
-    _testAssembly: UnityEngine.TestRunner
-    _status: 0
-    _isSuite: 1
-    _type: NUnit.Framework.Internal.TestAssembly
-    _parentName: 
-    _testCaseCount: 0
-    _foldOut: 0
-    _testResultMessage: 
-    _testStackTrace: 
-    _testDuration: 0
-    path: 
-    _testSelectedCount: 0
-  - _selected: 1
-    _testName: C:/Users/Alpeen/OneDrive/Belgeler/Projects/My project (1)/AltUnityTester-UnitySampleGame/AltTester/Library/ScriptAssemblies/UnityEditor.TestRunner.dll
-    _testAssembly: UnityEditor.TestRunner
-    _status: 0
-    _isSuite: 1
-    _type: NUnit.Framework.Internal.TestAssembly
-    _parentName: 
-    _testCaseCount: 0
-    _foldOut: 0
-    _testResultMessage: 
-    _testStackTrace: 
-    _testDuration: 0
-    path: 
-    _testSelectedCount: 0
-  - _selected: 1
-    _testName: C:/Users/Alpeen/OneDrive/Belgeler/Projects/My project (1)/AltUnityTester-UnitySampleGame/AltTester/Library/ScriptAssemblies/Unity.Rider.Editor.dll
-    _testAssembly: Unity.Rider.Editor
-    _status: 0
-    _isSuite: 1
-    _type: NUnit.Framework.Internal.TestAssembly
-    _parentName: 
-    _testCaseCount: 0
-    _foldOut: 0
-    _testResultMessage: 
-    _testStackTrace: 
-    _testDuration: 0
-    path: 
-    _testSelectedCount: 0
-  - _selected: 0
-    _testName: C:/Users/Alpeen/OneDrive/Belgeler/Projects/My project (1)/AltUnityTester-UnitySampleGame/AltTester/Library/ScriptAssemblies/AltTester.AltTesterUnitySDK.Editor.dll
-    _testAssembly: AltTester.AltTesterUnitySDK.Editor
-    _status: -1
-    _isSuite: 1
-    _type: NUnit.Framework.Internal.TestAssembly
-    _parentName: 
-    _testCaseCount: 1
-    _foldOut: 1
-    _testResultMessage: 
-    _testStackTrace: 
-    _testDuration: 0
-    path: 
-    _testSelectedCount: 1
-  - _selected: 0
-    _testName: NewAltTest
-    _testAssembly: AltTester.AltTesterUnitySDK.Editor
-    _status: -1
-    _isSuite: 1
-    _type: NUnit.Framework.Internal.TestFixture
-    _parentName: C:/Users/Alpeen/OneDrive/Belgeler/Projects/My project (1)/AltUnityTester-UnitySampleGame/AltTester/Library/ScriptAssemblies/AltTester.AltTesterUnitySDK.Editor.dll
-    _testCaseCount: 1
-    _foldOut: 1
-    _testResultMessage: 
-    _testStackTrace: 
-    _testDuration: 0
-    path: 
-    _testSelectedCount: 1
-  - _selected: 1
-    _testName: NewAltTest.TestStartButtonLoadsMainScene
-    _testAssembly: AltTester.AltTesterUnitySDK.Editor
-    _status: -1
-    _isSuite: 0
-    _type: NUnit.Framework.Internal.TestMethod
-    _parentName: NewAltTest
-    _testCaseCount: 1
-    _foldOut: 1
-    _testResultMessage: 'OneTimeSetUp: System.FormatException : Input string was
-      not in a correct format.'
-    _testStackTrace: 
-    _testDuration: 0
-    path: 
-    _testSelectedCount: 0
+  MyTests: []
   Scenes:
   - _toBeBuilt: 1
     _path: Assets/Scenes/Start.unity
@@ -128,7 +29,7 @@ MonoBehaviour:
     _buildIndex: 2
   platform: 1
   StandaloneTarget: 5
-  RanInEditor: 0
+  RanInEditor: 1
   ScenePathDisplayed: 0
   InputVisualizer: 0
   ShowPopUp: 1
