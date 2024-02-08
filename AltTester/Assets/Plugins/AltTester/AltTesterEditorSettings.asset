@@ -16,7 +16,287 @@ MonoBehaviour:
   AdbPath: /usr/local/bin/adb
   IProxyPath: /usr/local/bin/iproxy
   XcrunPath: /usr/bin/xcrun
-  MyTests: []
+  MyTests:
+  - _selected: 1
+    _testName: C:/Users/ironman/Documents/GitHub/AltUnityTester-UnitySampleGame/AltTester/Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    _testAssembly: Unity.Rider.Editor
+    _status: 0
+    _isSuite: 1
+    _type: NUnit.Framework.Internal.TestAssembly
+    _parentName: 
+    _testCaseCount: 0
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: 
+    _testSelectedCount: 0
+  - _selected: 1
+    _testName: C:/Users/ironman/Documents/GitHub/AltUnityTester-UnitySampleGame/AltTester/Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    _testAssembly: UnityEditor.TestRunner
+    _status: 0
+    _isSuite: 1
+    _type: NUnit.Framework.Internal.TestAssembly
+    _parentName: 
+    _testCaseCount: 0
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: 
+    _testSelectedCount: 0
+  - _selected: 1
+    _testName: C:/Users/ironman/Documents/GitHub/AltUnityTester-UnitySampleGame/AltTester/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll
+    _testAssembly: Unity.VisualStudio.Editor
+    _status: 0
+    _isSuite: 1
+    _type: NUnit.Framework.Internal.TestAssembly
+    _parentName: 
+    _testCaseCount: 0
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: 
+    _testSelectedCount: 0
+  - _selected: 0
+    _testName: C:/Users/ironman/Documents/GitHub/AltUnityTester-UnitySampleGame/AltTester/Library/ScriptAssemblies/AltTester.AltTesterUnitySDK.Editor.dll
+    _testAssembly: AltTester.AltTesterUnitySDK.Editor
+    _status: 0
+    _isSuite: 1
+    _type: NUnit.Framework.Internal.TestAssembly
+    _parentName: 
+    _testCaseCount: 9
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: 
+    _testSelectedCount: 0
+  - _selected: 0
+    _testName: alttrashcat_tests_csharp
+    _testAssembly: AltTester.AltTesterUnitySDK.Editor
+    _status: 0
+    _isSuite: 1
+    _type: NUnit.Framework.Internal.TestSuite
+    _parentName: C:/Users/ironman/Documents/GitHub/AltUnityTester-UnitySampleGame/AltTester/Library/ScriptAssemblies/AltTester.AltTesterUnitySDK.Editor.dll
+    _testCaseCount: 9
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: 
+    _testSelectedCount: 0
+  - _selected: 0
+    _testName: alttrashcat_tests_csharp.tests
+    _testAssembly: AltTester.AltTesterUnitySDK.Editor
+    _status: 0
+    _isSuite: 1
+    _type: NUnit.Framework.Internal.TestSuite
+    _parentName: alttrashcat_tests_csharp
+    _testCaseCount: 9
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: 
+    _testSelectedCount: 0
+  - _selected: 0
+    _testName: alttrashcat_tests_csharp.tests.GamePlayTests
+    _testAssembly: AltTester.AltTesterUnitySDK.Editor
+    _status: 0
+    _isSuite: 1
+    _type: NUnit.Framework.Internal.TestFixture
+    _parentName: alttrashcat_tests_csharp.tests
+    _testCaseCount: 5
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: 
+    _testSelectedCount: 0
+  - _selected: 0
+    _testName: alttrashcat_tests_csharp.tests.GamePlayTests.TestAvoidingObstacles
+    _testAssembly: AltTester.AltTesterUnitySDK.Editor
+    _status: 0
+    _isSuite: 0
+    _type: NUnit.Framework.Internal.TestMethod
+    _parentName: alttrashcat_tests_csharp.tests.GamePlayTests
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: Assets/AltTester/Editor/Tests/GamePlayTests.cs
+    _testSelectedCount: 0
+  - _selected: 0
+    _testName: alttrashcat_tests_csharp.tests.GamePlayTests.TestGameCanBePausedAndResumed
+    _testAssembly: AltTester.AltTesterUnitySDK.Editor
+    _status: 0
+    _isSuite: 0
+    _type: NUnit.Framework.Internal.TestMethod
+    _parentName: alttrashcat_tests_csharp.tests.GamePlayTests
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: Assets/AltTester/Editor/Tests/GamePlayTests.cs
+    _testSelectedCount: 0
+  - _selected: 0
+    _testName: alttrashcat_tests_csharp.tests.GamePlayTests.TestGameCanBePausedAndStopped
+    _testAssembly: AltTester.AltTesterUnitySDK.Editor
+    _status: 0
+    _isSuite: 0
+    _type: NUnit.Framework.Internal.TestMethod
+    _parentName: alttrashcat_tests_csharp.tests.GamePlayTests
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: Assets/AltTester/Editor/Tests/GamePlayTests.cs
+    _testSelectedCount: 0
+  - _selected: 0
+    _testName: alttrashcat_tests_csharp.tests.GamePlayTests.TestGamePlayDisplayedCorrectly
+    _testAssembly: AltTester.AltTesterUnitySDK.Editor
+    _status: 0
+    _isSuite: 0
+    _type: NUnit.Framework.Internal.TestMethod
+    _parentName: alttrashcat_tests_csharp.tests.GamePlayTests
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: Assets/AltTester/Editor/Tests/GamePlayTests.cs
+    _testSelectedCount: 0
+  - _selected: 0
+    _testName: alttrashcat_tests_csharp.tests.GamePlayTests.TestPlayerDiesWhenObstacleNotAvoided
+    _testAssembly: AltTester.AltTesterUnitySDK.Editor
+    _status: 0
+    _isSuite: 0
+    _type: NUnit.Framework.Internal.TestMethod
+    _parentName: alttrashcat_tests_csharp.tests.GamePlayTests
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: Assets/AltTester/Editor/Tests/GamePlayTests.cs
+    _testSelectedCount: 0
+  - _selected: 0
+    _testName: alttrashcat_tests_csharp.tests.MainMenuTests
+    _testAssembly: AltTester.AltTesterUnitySDK.Editor
+    _status: 0
+    _isSuite: 1
+    _type: NUnit.Framework.Internal.TestFixture
+    _parentName: alttrashcat_tests_csharp.tests
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: 
+    _testSelectedCount: 0
+  - _selected: 0
+    _testName: alttrashcat_tests_csharp.tests.MainMenuTests.TestMainMenuPageLoadedCorrectly
+    _testAssembly: AltTester.AltTesterUnitySDK.Editor
+    _status: 0
+    _isSuite: 0
+    _type: NUnit.Framework.Internal.TestMethod
+    _parentName: alttrashcat_tests_csharp.tests.MainMenuTests
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: Assets/AltTester/Editor/Tests/MainMenuTests.cs
+    _testSelectedCount: 0
+  - _selected: 0
+    _testName: alttrashcat_tests_csharp.tests.NewAltTest
+    _testAssembly: AltTester.AltTesterUnitySDK.Editor
+    _status: 0
+    _isSuite: 1
+    _type: NUnit.Framework.Internal.TestFixture
+    _parentName: alttrashcat_tests_csharp.tests
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: 
+    _testSelectedCount: 0
+  - _selected: 0
+    _testName: alttrashcat_tests_csharp.tests.NewAltTest.TestStartButtonLoadsMainScene
+    _testAssembly: AltTester.AltTesterUnitySDK.Editor
+    _status: 0
+    _isSuite: 0
+    _type: NUnit.Framework.Internal.TestMethod
+    _parentName: alttrashcat_tests_csharp.tests.NewAltTest
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: 
+    _testSelectedCount: 0
+  - _selected: 0
+    _testName: alttrashcat_tests_csharp.tests.StartPageTests
+    _testAssembly: AltTester.AltTesterUnitySDK.Editor
+    _status: 0
+    _isSuite: 1
+    _type: NUnit.Framework.Internal.TestFixture
+    _parentName: alttrashcat_tests_csharp.tests
+    _testCaseCount: 2
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: 
+    _testSelectedCount: 0
+  - _selected: 0
+    _testName: alttrashcat_tests_csharp.tests.StartPageTests.TestStartButtonLoadMainMenu
+    _testAssembly: AltTester.AltTesterUnitySDK.Editor
+    _status: 0
+    _isSuite: 0
+    _type: NUnit.Framework.Internal.TestMethod
+    _parentName: alttrashcat_tests_csharp.tests.StartPageTests
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: Assets/AltTester/Editor/Tests/StartPageTests.cs
+    _testSelectedCount: 0
+  - _selected: 0
+    _testName: alttrashcat_tests_csharp.tests.StartPageTests.TestStartPageLoadedCorrectly
+    _testAssembly: AltTester.AltTesterUnitySDK.Editor
+    _status: 0
+    _isSuite: 0
+    _type: NUnit.Framework.Internal.TestMethod
+    _parentName: alttrashcat_tests_csharp.tests.StartPageTests
+    _testCaseCount: 1
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: Assets/AltTester/Editor/Tests/StartPageTests.cs
+    _testSelectedCount: 0
+  - _selected: 1
+    _testName: C:/Users/ironman/Documents/GitHub/AltUnityTester-UnitySampleGame/AltTester/Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    _testAssembly: UnityEngine.TestRunner
+    _status: 0
+    _isSuite: 1
+    _type: NUnit.Framework.Internal.TestAssembly
+    _parentName: 
+    _testCaseCount: 0
+    _foldOut: 0
+    _testResultMessage: 
+    _testStackTrace: 
+    _testDuration: 0
+    path: 
+    _testSelectedCount: 0
   Scenes:
   - _toBeBuilt: 1
     _path: Assets/Scenes/Start.unity
